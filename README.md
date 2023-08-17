@@ -1,5 +1,5 @@
 # Esteganografia em Arquivos de Áudio
-![Images](images/esteganografia.png)<br>
+![Images](esteganografia.png)<br>
 <p/>Este é um programa em Python que permite realizar esteganografia em arquivos de áudio, ou seja, esconder uma imagem dentro de um arquivo de áudio utilizando a técnica de substituição de bits menos significativos. O programa utiliza a biblioteca Tkinter para criar uma interface gráfica simples e interativa para o usuário. 
 
 ## Pré-requisitos
